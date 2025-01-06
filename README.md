@@ -50,7 +50,7 @@
 
 - Navigate to frontend direcory
 
-       cd backend
+       cd frontend
   
 - Install dependencies
 
